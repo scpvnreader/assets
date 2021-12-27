@@ -1,0 +1,160 @@
+[
+  {
+    "heading": "SCP Series",
+    "source": "$scp_series"
+  },
+  {
+    "items": [
+    	{
+    		"heading": "Truyện",
+		    "source": "$tales_series",
+			"items": [
+			{
+				"name": "Truyện Tổ Chức",
+				"url": "scp-vn.wikidot.com/foundation-tales/index.html"
+			},
+			{
+				"name": "Lưu Trữ Series",
+				"url": "scp-vn.wikidot.com/series-archive/index.html"
+			},
+			{
+				"name": "Báo cáo Sự cố",
+				"url": "scp-vn.wikidot.com/incident-reports-eye-witness-interviews-and-personal-logs/index.html"
+			},
+			{
+				"name": "Lưu Trữ CreepyPasta",
+				"url": "scp-vn.wikidot.com/creepy-pasta/index.html"
+			}
+			]
+		}, {
+			"heading": "Thư Viện",
+			"items": [
+				{
+				"name": "Danh Sách Của Độc Giả",
+				"url": "scp-vn.wikidot.com/user-curated-lists/index.html"
+				},
+				{
+				"name": "SCP Hài",
+				"url": "scp-vn.wikidot.com/joke-scps/index.html"
+				},
+				{
+				"name": "Truyện SCP Hài",
+				"url": "scp-vn.wikidot.com/joke-scps-tales-edition/index.html"
+				},
+				{
+				"name": "SCP Đã Giải Thích",
+				"url": "scp-vn.wikidot.com/scp-ex/index.html"
+				},
+				{
+					"name": "SCP Đã Lưu Trữ",
+					"url": "scp-vn.wikidot.com/archived-scps"
+				},
+				{
+				"name": "Truyện SCP Đã Lưu Trữ",
+				"url": "scp-vn.wikidot.com/explained-scps-tales-edition/index.html"
+				},
+				{
+				"name": "Tài Liệu GoI",
+				"url": "scp-vn.wikidot.com/goi-formats/index.html"
+				}
+			]
+		}, {
+		    "heading": "Vũ Trụ SCP",
+		    "items": [
+		      {
+		        "name": "Trung Tâm Canon",
+		        "url": "scp-vn.wikidot.com/canon-hub/index.html"
+		      },
+		      {
+		        "name": "Thế lực Đáng lưu tâm",
+		        "url": "scp-vn.wikidot.com/groups-of-interest/index.html"
+		      },
+		      {
+		        "name": "Các Vật Thể Dị Thường",
+		        "url": "scp-vn.wikidot.com/log-of-anomalous-items/index.html"
+		      },
+		      {
+		        "name": "Các Hiện Tượng Dị Thường",
+		        "url": "scp-vn.wikidot.com/log-of-extranormal-events/index.html"
+		      },
+		      {
+		        "name": "Các Địa Điểm Dị Thường",
+		        "url": "scp-vn.wikidot.com/log-of-unexplained-locations/index.html"
+		      }
+		    ]
+		},{
+		    "heading": "Thông tin Cốt lõi",
+		    "items": [
+		      {
+		        "name": "Về Tổ chức",
+		        "url": "scp-vn.wikidot.com/about-the-scp-foundation/index.html"
+		      },
+		      {
+		        "name": "Các Phân loại",
+		        "url": "scp-vn.wikidot.com/object-classes/index.html"
+		      },
+		      {
+		        "name": "Hồ sơ Nhân sự",
+		        "url": "scp-vn.wikidot.com/personnel-and-character-dossier/index.html"
+		      },
+		      {
+		        "name": "Mức độ An ninh",
+		        "url": "scp-vn.wikidot.com/security-clearance-levels/index.html"
+		      },
+		      {
+		        "name": "Cơ sở Bảo mật",
+		        "url": "scp-vn.wikidot.com/secure-facilities-locations/index.html"
+		      },
+		      {
+		        "name": "Lực lượng Đặc nhiệm",
+		        "url": "scp-vn.wikidot.com/task-forces/index.html"
+		      }
+		    ]
+		},{
+			"heading": "SCP-VN",
+			"items": [
+				{
+					"name": "Series I",
+					"url": "scp-vn.wikidot.com/scp-series-vn/index.html"
+				},
+				{
+					"name": "Bài chiến thắng contest 100-VN",
+					"url": "scp-vn.wikidot.com/scp-100-vn/index.html"
+				}
+			]
+		},{
+			"heading": "Hướng Dẫn",
+			"items": [
+				{
+					"name": "Hướng dẫn viết SCP",
+					"url": "scp-vn.wikidot.com/how-to-write-an-scp/index.html"
+				},
+				{
+					"name": "Hướng dẫn cho Dịch giả",
+					"url": "scp-vn.wikidot.com/translation-guide/index.html"
+				},
+				{
+					"name": "Cơ chế Xét duyệt Ý tưởng",
+					"url": "scp-vn.wikidot.com/forum/t-14183790/c-ch-xet-duy-t-y-t-ng/index.html"
+				}
+			]
+		},{
+			"heading": "Tin Tức Ứng Dụng",
+			"items": [
+				{
+					"name": "Tin Tức",
+					"url": "scpvnreader.wikidot.com/news/index.html"
+				}
+			]
+		},{
+			"heading": "Câu Hỏi Thường Gặp",
+			"items": [
+				{
+					"name": "FAQ",
+					"url": "scpvnreader.wikidot.com/faq/index.html"
+				}
+			]
+		}
+	]
+  }
+]
