@@ -10,6 +10,19 @@
     {
         "items": [
             {
+                "heading": "Tuần Báo SCP-VN",
+                "items": [
+                    {
+                        "name": "Số 02 - 2021",
+                        "url": "scp-vn.wikidot.com/news-02-2021/index.html"
+                    },
+                    {
+                        "name": "Số 01 - 2021",
+                        "url": "scp-vn.wikidot.com/news-01-2021/index.html"
+                    }
+                ]
+            },
+            {
                 "heading": "Ngoại Truyện",
                 "source": "$tales_series",
                 "items": [
